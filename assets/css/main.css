@@ -2057,7 +2057,10 @@ input, select, textarea {
 		top: 0;
 		width: 375px;
 	}
-
+	#darc {
+		opacity: 70%;
+		background-color: #000000;
+	}
 		#header .top {
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
@@ -2248,7 +2251,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/header.jpg");
 			}
 
 			#main > section.two {
